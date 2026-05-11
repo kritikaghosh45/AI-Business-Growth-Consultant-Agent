@@ -19,6 +19,3 @@ python agent.py
 
 3. Follow the prompts to generate a growth plan for a sample business.
 
-## GitHub Repo Notes
-
-This repository is designed to be published to GitHub as a standalone project. Use the existing files and update `README.md` with your repository details after publishing.
