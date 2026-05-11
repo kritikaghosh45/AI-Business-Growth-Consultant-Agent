@@ -1,0 +1,3 @@
+# No external packages required for the sample agent.
+# Optional: uncomment to enable OpenAI-based extensions.
+# openai>=0.27.0

@@ -22,3 +22,11 @@ python agent.py
 ## GitHub Repo Notes
 
 This repository is designed to be published to GitHub as a standalone project. Use the existing files and update `README.md` with your repository details after publishing.
+
+## Continuous Integration
+
+A GitHub Actions workflow is included at `.github/workflows/python-app.yml` to validate the project on push and pull requests.
+
+## Contributing
+
+See `CONTRIBUTING.md` for contribution guidelines and best practices.

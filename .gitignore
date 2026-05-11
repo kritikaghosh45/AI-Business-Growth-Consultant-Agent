@@ -11,5 +11,5 @@ venv/
 .vscode/
 .idea/
 
-# Output files
-*.txt
+# Output files (but allow examples)
+growth_plan.txt
